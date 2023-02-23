@@ -1,0 +1,77 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+header img {
+	max-width: 50%;
+}
+
+
+
+body {
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+
+  .button-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button-group button {
+    margin: 0 10px;
+  }
+  
+  button {
+    display: flex;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  #terminar-btn {
+    float: right;
+    margin-top: 10px;
+  }
+  
+    
+  
+    /* Ajustar el padding de las celdas */
+    #tabla-empleados td,
+    #tabla-empleados th {
+      padding: 8px;
+    }
+  
+ 
+
+
+
+
+  
+  
+  
+  
